@@ -1,0 +1,25 @@
+#pbcekprimbon {
+  font-family: "Open Sans", Arial;
+  width: 300px;
+  padding: 10px;
+  border: solid 1px #ddd;
+  border-radius: 5px;
+  background-color: #eee;
+}
+#pbhasil {
+  font-family: "Open Sans", Arial;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: rgb(169, 235, 235);
+}
+.pbh2, pbh3 {
+  margin: 0px;
+  padding: 0px;
+}
+.pbh3 {
+  font-weight: normal;
+  font-size: medium;
+}
+#pbhitung {
+  padding: 10px;
+}
